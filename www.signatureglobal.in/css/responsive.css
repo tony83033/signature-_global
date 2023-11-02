@@ -1,0 +1,1200 @@
+@media (min-width: 1366px) {
+  .banner .videobg #videobanner,
+  .banner .videobg #videobanner2 {
+    width: 100%;
+  }
+}
+@media (min-width: 995px) and (max-width: 1024px) {
+  .banner .videobg #videobanner,
+  .banner .videobg #videobanner2 {
+    width: auto;
+  }
+  .gridheading strong {
+    font-size: 15px;
+  }
+  .footermedianav li {
+    margin-right: 10px;
+  }
+  .padd100 {
+    padding: 80px 0;
+  }
+  .rt-tpg-container .layout1 .rt-holder .rt-detail .post-meta {
+    position: static;
+  }
+  .customer-banner {
+    height: 375px;
+  }
+  .dropdown:hover .dropdown-menu {
+    max-height: 0;
+  }
+  .dropdown-menu.show {
+    max-height: 380px !important;
+  }
+  .navbar-dark .navbar-nav .nav-item {
+    margin-left: 20px;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 0.79rem;
+  }
+  .eventsatMall br {
+    display: none;
+  }
+}
+@media (max-width: 990px) {
+  .ngd .col-lg-6:first-child,
+  .ngd .col-lg-6:last-child {
+    margin-top: 0;
+    padding: 0 15px;
+  }
+  .offbg .whbg {
+    top: 306px;
+    background: #6c9293a1;
+    left: 0;
+    padding: 25px;
+    height: auto;
+  }
+  .offbg .whbg .headingtag h2,
+  .offbg .whbg p {
+    color: #fff;
+  }
+  .navbar-dark .navbar-nav .nav-item {
+    margin-left: 20px;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 0.79rem;
+  }
+  .topnavbaxy ul li {
+    margin: 0 9px;
+  }
+  body {
+    overflow-x: hidden !important;
+  }
+  .mobiconbtn {
+    width: 150px;
+  }
+  .mobiconbtn a {
+    width: 25px;
+    height: auto;
+  }
+  .clabtn .abtn,
+  .clabtn1,
+  .ngd {
+    position: static;
+    margin-top: 50px;
+  }
+  .ftmb,
+  .mobhide,
+  .slides-numbers {
+    display: none !important;
+  }
+  .footernav strong,
+  .walkvideoiframe {
+    margin-bottom: 20px;
+  }
+  .bannertext h1,
+  .fmt,
+  .gallerygrid {
+    margin-bottom: 30px;
+  }
+  .pl-00,
+  .pl4 {
+    padding-left: 15px !important;
+  }
+  .bannertext h1 {
+    font-size: 4rem;
+  }
+  .accordion .card h2,
+  .headingtag {
+    font-size: 2.7rem;
+  }
+  .galleryslider .container,
+  .ullist {
+    width: 100%;
+    max-width: 100%;
+  }
+  .galleryslider .carousel {
+    padding: 0 40px;
+  }
+  .padt100 {
+    padding-top: 60px;
+  }
+  .padd100 {
+    padding: 60px 0;
+  }
+  .padb100 {
+    padding-bottom: 60px;
+  }
+  .pr-00 {
+    padding-right: 15px !important;
+  }
+  .pl-65 {
+    padding-left: 0;
+  }
+  .texttag {
+    font-size: 1.5rem;
+  }
+  .banner {
+    height: 75vh;
+  }
+  .iframwrap {
+    margin-top: -235px;
+  }
+  .hdfclogobg,
+  .projectsbtn {
+    margin-bottom: 15px;
+    height: auto;
+  }
+  .popup-box {
+    width: 100%;
+    height: 300px;
+    overflow-y: auto;
+    padding-right: 15px;
+  }
+  .locationwrap {
+    height: auto;
+  }
+  .locationwrap .col-lg-5 {
+    position: static;
+    padding: 0 15px;
+  }
+  .locationadvantage {
+    display: block;
+    word-break: normal;
+    padding: 50px 0;
+  }
+  .mobslidear {
+    display: inline-flex !important;
+  }
+  .elevationsectionwrap .clabtn1 {
+    margin: 35px 0 50px;
+  }
+  .siteplanwrap .clabtn1 {
+    margin: 20px 0 50px;
+  }
+  .recimg img:last-child {
+    margin-top: 15px;
+   width: 100%
+  }
+  .mtopflw {
+    margin-top: 0;
+  }
+  .galbgimg:hover {
+    transform: scale(1, 1);
+  }
+  .gallerygrid,
+  .video-iframe iframe {
+    height: 400px;
+  }
+  .gallerygrid:hover {
+    box-shadow: inset 0 -400px 0 0 #000;
+  }
+  .innerpolicy ul li {
+    width: 95%;
+  }
+  .eventsatMall br,
+  .mobhidebr,
+  .mobiconbtn {
+    display: block;
+  }
+  .policywraper .policylink p a {
+    margin-top: 8px;
+    display: inline-block;
+  }
+  .csinnerbg .caretext {
+    width: 85%;
+  }
+  .contactwrap .col-lg-7 {
+    position: static;
+  }
+  .headingtagcontact {
+    font-size: 4rem;
+  }
+  .contactwrap .col-lg-5 {
+    padding: 50px 15px 80px;
+  }
+  .contactformbtn {
+    top: 90%;
+    right: 50%;
+    transform: translateX(-50%);
+    left: 50%;
+  }
+  .businesswrap .col-lg-5,
+  .businesswrap .col-lg-7 {
+    padding: 0 15px;
+  }
+  .hdfclogobg {
+    padding: 100px 0;
+  }
+  .banner .videobg #videobanner,
+  .banner .videobg #videobanner2 {
+    height: 100vh;
+    width: auto;
+  }
+  .banpostext .bannertexthm h1 {
+    font-size: 2.5rem;
+  }
+  .banpostext .bannertexthm p {
+    display: none;
+  }
+  .pronavbtn .abtn {
+    float: none;
+  }
+  .rightnavpro .col-lg-5 {
+    padding-right: 15px;
+    display: none;
+  }
+  .rightnavpro .col-lg-7 {
+    padding: 0;
+  }
+  .locationwrap .col-lg-5,
+  .locationwrap .col-lg-7 {
+    margin: 0 15px;
+  }
+  .mtopft {
+    margin-top: 30px;
+  }
+  form.formlineflex {
+    flex-wrap: wrap;
+  }
+  form.formlineflex .from-flex {
+    width: 48%;
+    border: 1px solid !important;
+    margin-bottom: 15px;
+  }
+  form.formlineflex .from-flex:last-child {
+    width: 98%;
+    border: none;
+  }
+  form.formlineflex .from-flex .btns {
+    width: 100%;
+    border: none;
+  }
+  .contactwrap {
+    height: auto;
+    padding-bottom: 25px;
+  }
+  .customer-banner {
+    background-image: url(../images/customerbanner-mob.jpg);
+  }
+  .topnavbaxy ul li a {
+    font-size: 0.59rem !important;
+  }
+  .progalleryslider .slick-slide {
+    margin: 0 !important;
+  }
+  .amenitiesslider,
+  .unitplanslider {
+    margin: 0 -10px;
+  }
+  .container-fluid {
+    max-width: 720px;
+  }
+  .gallerygrid,
+  .listingbannerbg {
+    height: 350px;
+  }
+  .progalleryslider .slider-nav .item-slick {
+    max-width: 180px;
+    margin: 0 10px !important;
+  }
+  .location-bg {
+    width: 96%;
+  }
+  .locationwrap .container .row {
+    flex-direction: column-reverse;
+  }
+  .sg107 .container .row {
+    flex-direction: column !important;
+  }
+  .logogrid ul li {
+    width: 50%;
+  }
+  .mapgridicon ul li {
+    text-align: center;
+  }
+  .thanktext {
+    width: 90%;
+  }
+  .banner .videobg #videobanner {
+    position: relative;
+  }
+  .slider-container .item {
+    height: 570px;
+  }
+  .locationwrap .col-lg-7 {
+    position: static;
+    background: 0 0;
+    width: 96%;
+  }
+  .mapgridicon ul li span {
+    font-size: 14px;
+  }
+  .mapgridicon ul li img {
+    width: 70px !important;
+  }
+  .contactwrap .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .p00 {
+    padding: 0 !important;
+  }
+  .coglogo {
+    justify-content: center;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 767px) {
+
+.companydetails th a{
+font-size: 14px;
+}
+
+.recimg img:last-child {
+   
+    width: auto;
+}
+  #main-nav,
+  .dropdown-menu {
+    visibility: hidden;
+    opacity: 0;
+  }
+  #main-nav.show, .dropdown:hover .dropdown-menu {
+    transform: translateY(0);
+    visibility: visible;
+    opacity: 1;
+z-index: 999 !important;
+  }
+  .subnavdown .col-sm-6,
+  ul.pplink {
+    width: 50%;
+  }
+  .dropdown-menu,
+  .hidescroll {
+    overflow: hidden;
+  }
+  .sgofferb {
+    background-image: url(../images/projects/signature-global-mall/SG-Mall-Mobile-Banner.jpg);
+  }
+  .themillenniabanner1 {
+    background-image: url(../images/projects/the_millennia/Millennia-1-Mob-banner.jpg);
+  }
+  .themillenniabanner2 {
+    background-image: url(../images/projects/the_millennia_ii/Millennia-2-Mob-banner.jpg);
+  }
+  .themillenniabanner3 {
+    background-image: url(../images/projects/the_millennia_iii/banner/MobileBanner.jpg);
+  }
+  .themillenniabanner4 {
+    background-image: url(../images/projects/the_millennia_iv/Millennia-4-Mob-banner.png);
+  }
+  .sgcity37dbanner {
+    background-image: url(../images/projects/city-37d/banner/MobileBanner.jpg);
+  }
+  .sgcity92banner {
+    background-image: url(../images/projects/city-92/banner/mobile-banner.webp);
+    background-position: center;
+  }
+  .sgcity81banner {
+    background-image: url(../images/projects/city-81/Mobile-Banner.jpg);
+  }
+  sgglobalparkbanner {
+    background-image: url(../images/projects/global-parks/Mobile-Banner.jpg);
+  }
+  .sgglobalpark45banner {
+    background-image: url(../images/projects/global-park45/banner/mobile-banner.webp);
+  }
+  .proxima-i-banner {
+    background-image: url(../images/projects/proxima-i/proxima-i-mob-banner.jpg);
+  }
+  .proxima-ii-banner {
+    background-image: url(../images/projects/proxima-ii/banner/Mobile-Banner.jpg);
+  }
+  .sg-prime-banner {
+    background-image: url(../images/projects/sg-prime/Mobile-Banner.webp);
+  }
+  .sg37dsco-banner {
+    background-image: url(../images/projects/sg-37d-sco/MobileBAnner.jpg);
+  }
+  .sg37dsco-bannerold {
+    background-image: url(../images/projects/sg-37d-sco/MobileBAnner1.jpg);
+  }
+  .sgsco-banner {
+    background-image: url(../images/projects/sg-sco/Banner-Mobile.webp);
+  }
+  .sg-aspire-banner {
+    background-image: url(../images/projects/sg-aspire/banner/Mobile-Banner.jpg);
+  }
+  .certificatebannerbg {
+    background: url(../images/certificate-mob-banner.jpg) 0 0 / cover;
+  }
+  .home-loans-banner {
+    background-image: url(../images/home-loans-mob-banner.jpg);
+  }
+  .banner-sg-city {
+    background-image: url(../images/projects/signature-global-city/banner/Mobile-banner.jpg);
+  }
+  .banner-roselia2 {
+    background-image: url(../images/projects/roselia2/banner/MobileBanner.jpg);
+  }
+  .banner-grandIva {
+    background-image: url(../images/projects/grand-iva-sector-103-gurugram/banner/Mobile-Banner.jpg);
+  }
+  .banner-sunrise {
+    background-image: url(../images/projects/sunrise-the-premium-floors/banner/Mobile-banner.jpg);
+  }
+  .signum-37d4 {
+    background-image: url(../images/projects/signum37d-iv/Banner/Mobile.jpg);
+  }
+  .orchard-banner {
+    background-image: url(../images/projects/orchard-avenue/banner/Mobile-Banner.jpg);
+  }
+  .banner-sg-mall {
+    background-image: url(../images/projects/signature-global-mall/banner/Mobile-Banner.jpg);
+  }
+  .superbia-banner {
+    background-image: url(../images/projects/superbia/banner/Mobile-Banner.jpg);
+  }
+  .banner-golfgreen79 {
+    background-image: url(../images/projects/golf-greens79/banner/Mobile-Banner.jpg);
+  }
+  .banner-orchard2 {
+    background-image: url(../images/projects/orchard-avenue2/banner/MobileBanner.jpg);
+  }
+  .banner-signum-89I {
+    background-image: url(../images/projects/signum-89-I/banner/mobile-banner.jpg);
+  }
+  .banner-signum93-2 {
+    background-image: url(../images/projects/signum93-II/banner/mobile-banner.jpg);
+  }
+  .banner-signum-37D {
+    background-image: url(../images/projects/signum-37D/banner/MobileBanner.jpg);
+  }
+  .banner-solera2 {
+    background-image: url(../images/projects/solera2/banner/MobileBanner.jpg);
+  }
+  .banner-serenas {
+    background-image: url(../images/projects/sector-36-south-gurugram/banner/Mobile-Banner.jpg);
+  }
+  .banner-sector95a-roselia {
+    background-image: url(../images/projects/sector-95a-gurugram/banner/MobileBanner.jpg);
+  }
+  .signum-81-banner {
+    background-image: url(../images/projects/signum-81/banner/MobileBanner.jpg);
+  }
+  .signum-95-II-banner {
+    background-image: url(../images/projects/signum95-2/MobileBanner.jpg);
+  }
+  .green-development-banner {
+    background-image: url(../images/green-development-mob-banner.jpg);
+  }
+  .banner-andourheight71 {
+    background-image: url(../images/projects/andour-heights71/Mobile-Banner.jpg);
+  }
+  .sg-imperial-bannner {
+    background-image: url(../images/projects/imperial/MobileBanner.webp);
+  }
+  .desktopshow,
+  .locationmap .desktopShow,
+  .mhide,
+  .projectsbtn,
+  .rightnavpro,
+  .subnavdown strong,
+  .topnavbaxy ul span,
+  .topnavbaxy ul span:last-child {
+    display: none;
+  }
+  .locationmap .mobileShow {
+    display: Block;
+  }
+  .dropdown-menu {
+    display: block;
+    transform: translateY(20%);
+    max-height: 0;
+    -webkit-transition: max-height 0.8s ease-in-out;
+    -moz-transition: max-height 0.8s ease-in-out;
+    -o-transition: max-height 0.8s ease-in-out;
+    transition: max-height 0.8s ease-in-out;
+  }
+  .dropdown:hover .dropdown-menu {
+    max-height: 380px;
+  }
+  .headingtag {
+    font-size: 2.2rem;
+  }
+  .navproimg img {
+    margin-bottom: -3px;
+  }
+  .banner {
+    height: 75vh;
+    margin-top: 80px;
+  }
+  .pl-65 {
+    padding-left: 0;
+  }
+  .header-area {
+    background: #10171d;
+  }
+  .subnavdown {
+    text-align: left;
+    height: auto;
+    background: 0 0;
+  }
+  .subnavdown ul {
+    padding-top: 0;
+  }
+  .subnavdown ul li {
+    margin-bottom: 15px;
+  }
+  .subnavdown ul li a {
+    color: #fff;
+    padding: 5px 0 !important;
+    font-size: 1rem !important;
+  }
+  .footermedianav.mtop,
+  .slider-holder {
+    margin-top: 50px;
+  }
+  .footerbg .col-sm-6 {
+    width: 50% !important;
+  }
+  .banner .mn_c_ln {
+    height: 100px;
+    bottom: 0;
+  }
+  .ngd .col-lg-6:last-child {
+    padding: 0 15px;
+    margin-top: 30px;
+  }
+  .ngd .col-lg-6:first-child {
+    margin-top: 10px;
+    padding: 0 15px;
+  }
+  .topnavbaxy ul {
+    padding: 10px 15px 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  #main-nav {
+    margin-top: 10px;
+    padding-top: 15px;
+    background-color: #10171d;
+    display: flex !important;
+    height: calc(100vh - 80px);
+    position: absolute;
+    top: 70px;
+    transform: translateY(-115%);
+    z-index: -1;
+  }
+  .topnavbaxy ul li {
+    margin: 0;
+    width: 100%;
+    text-align: left;
+  }
+  .topnavbaxy ul li a {
+    background: 0 0 !important;
+    color: #fff !important;
+    padding: 11px 0 !important;
+    font-size: 1rem !important;
+  }
+  .navbar .navbar-brand {
+    padding: 0 0 0 15px;
+  }
+  .navbar-dark .navbar-nav .nav-item {
+    margin: 0;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    padding-left: 15px;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    padding: 15px 0 10px;
+    border: none;
+    font-size: 1rem !important;
+    color: #fff;
+    opacity: 1;
+    width: auto;
+    display: inline-block;
+  }
+  .navbar-dark .navbar-nav .nav-link i,
+  .navbar-dark .navbar-nav .nav-link img {
+    transform: rotate(-90deg);
+    position: relative;
+    top: -2px;
+  }
+  .topnavbaxy ul span {
+    color: #203d3b;
+  }
+  .navbar-nav {
+    padding: 0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .navbar-expand-md > .container,
+  .navbar-expand-md > .container-fluid {
+    padding: 15px 0;
+  }
+  .navbar-nav .dropdown-menu {
+    border: none;
+    float: none;
+    top: 15px;
+    position: absolute;
+    width: 60%;
+    margin: 0;
+    left: 40%;
+    text-align: left;
+    background-color: transparent;
+  }
+  .bannertext h1,
+  .banpostext .bannertext h1,
+  .bottomtx h1 {
+    font-size: 2.5rem;
+    margin-top: 100px;
+  }
+  .galleryslider .carousel .slide img {
+    height: 300px;
+    object-position: left;
+  }
+  .pl4 {
+    padding-left: 15px !important;
+  }
+  .filterwrap ul,
+  .mobshow,
+  form.formlineflex {
+    display: block;
+  }
+  .filterwrap ul li {
+    width: 100%;
+    margin-bottom: 15px;
+    border-right: 1px solid #6c9392;
+  }
+  .filterwrap ul li ul li,
+  .unitplanslider {
+    margin: 0;
+  }
+  .iframwrap iframe,
+  .newsgrid {
+    height: 400px;
+  }
+  .newsgrid:hover {
+    box-shadow: inset 0 -400px 0 0 #10171d;
+  }
+  .select2-container {
+    width: 385px !important;
+  }
+  .select2-container--open .select2-dropdown {
+    left: 0;
+  }
+  .fixedbtn {
+    left: -86px;
+  }
+  .downloadbtnwrap {
+    left: -82px;
+  }
+  .oc-certificates {
+    left: -63px;
+  }
+  .downloadbtnwrap .btnrt,
+  .fixedbtn .btnrt {
+    padding: 8px 20px;
+    height: auto;
+  }
+  .downloadbtnwrap.sg-city-application {
+    left: -70px;
+  }
+  .accordion .card h2 {
+    font-size: 1.8rem;
+    width: 100%;
+  }
+  .accordion .card h2 b {
+    width: 72%;
+    display: block;
+  }
+  .specetd table tr td:first-child {
+    width: 40%;
+  }
+  .progalleryslider .slider-nav .slick-track {
+    width: 100% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .accordion-loans .card .showhead b {
+    width: 85%;
+  }
+  .banner .videobg #videobanner {
+    height: 100%;
+    width: auto;
+  }
+  .loansformdt .subbtn button {
+    margin-left: -60px;
+  }
+  .bannertext {
+    left: 15px;
+    width: 90%;
+  }
+  .productimg .progrid,
+  .slider-container .item {
+    height: auto;
+  }
+  form.formlineflex .from-flex {
+    width: 100%;
+    border: 1px solid !important;
+    margin-bottom: 15px;
+  }
+  form.formlineflex .from-flex:last-child {
+    width: 100%;
+    border: none !important;
+  }
+  .subnavdown .dskhide {
+    position: static;
+    width: 225px;
+  }
+  .dropdown-menu .subnavdown .container {
+    position: relative;
+    background: 0 0;
+  }
+  .paddn60 {
+    padding: 0;
+  }
+  .subnavdown .dskhide ul span,
+  ul.pplink span {
+    color: #fff;
+    margin: 0 2px;
+  }
+  .bottommediamobwrap {
+    width: 100%;
+    padding: 0 15px 20px;
+    display: inline-flex;
+    height: 40%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+  ul.pplink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  ul.pplink li {
+    width: auto;
+    display: inline-block;
+    margin: 0;
+  }
+  ul.pplink li a {
+    text-transform: capitalize !important;
+    padding: 0 !important;
+    font-size: 1rem;
+    color: #fff;
+  }
+  p,
+  ul li {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+  }
+  .navbar-dark .navbar-nav .nav-link:after {
+    opacity: 0.5;
+  }
+  .controlam,
+  .controlar {
+    top: 0;
+  }
+  .progalleryslider .slick-next {
+    right: 20px;
+  }
+  .progalleryslider .slick-prev {
+    left: 20px;
+  }
+  .collapse:not(.show) {
+    height: 100%;
+  }
+  .listingbannerbg {
+    height: 350px;
+  }
+  .controlarloa {
+    top: 1px;
+  }
+  .controlarloa .arrow-icon-leftloa {
+    margin-top: 0;
+  }
+  .btnwrapone {
+    margin-bottom: 25px !important;
+  }
+  .progalleryslider .slider-nav .item-slick {
+    margin: 0 5px !important;
+  }
+  .bottomtx {
+    bottom: 0;
+  }
+  .headingtagcontact {
+    font-size: 3rem;
+  }
+  .comAss .slick-slide img {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .controldsmall {
+    right: 15px;
+    top: 0;
+    align-items: flex-start;
+  }
+  .recreationwrap .row {
+    flex-wrap: wrap-reverse;
+  }
+  .customsupp {
+    margin-top: 30px;
+  }
+  .footernav a {
+    display: block !important;
+  }
+  .bankslider .slick-dots {
+    margin-top: 0 !important;
+    height: 0 !important;
+  }
+  .bankslider .slick-dots li {
+    bottom: 38px;
+  }
+.investors-sec .accordion .card-head .mb-0:after {
+    top: 0;
+    font-size: 14px;
+    width: 72px;
+}
+.investors-sec .accordion .card h6 b {
+    font-size: 14px;
+}
+.investors-sec .accordion .card {
+    margin-bottom: 0px;
+}
+.investors-sec .accordian_main .card h6 .subheading{
+font-size: 14px;
+}
+.companydetails th a img {
+   
+    margin-right: 24px;
+}
+#accordionExample2 .accordioninner .card strong b {
+   
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.accordion .card-body.compositioncommities {
+    padding: 20px 0px;
+}
+.investors-sec .accordion .card.innercard{
+margin-bottom: 20px;
+}
+}
+@media (max-width: 640px) {
+  .newssectionwrap form.formlineflex .from-flex .select2-container {
+    width: 161px !important;
+  }
+  .amenitiesslider,
+  .locationwrap .col-lg-5,
+  .locationwrap .col-lg-7,
+  .slick-slide,
+  .unitplanslider {
+    margin: 0;
+  }
+  .subnavdown .dskhide {
+    width: 100% !important;
+  }
+  .cpationlogo img {
+    width: 80%;
+  }
+  .navbar-dark .navbar-nav .nav-link img {
+    width: 11px;
+  }
+  .mobiconbtn {
+    width: 85px;
+    margin-left: 0;
+  }
+  .delevered-stam,
+  .edgelogo {
+    width: 120px;
+  }
+  .footermedianav.mtop {
+    margin-top: 38px;
+  }
+  .policywraper .policylink {
+    text-align: center !important;
+  }
+  .accordion .card h2 span {
+    font-size: 16px;
+    width: 106px;
+  }
+  .banner .videobg #videobanner,
+  .banner .videobg #videobanner2 {
+    position: absolute;
+    left: 0;
+  }
+  .accordion .card h2 {
+    font-size: 1.5rem;
+    background-size: 17px;
+  }
+  ul.pplink {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .navbar-dark .navbar-nav .nav-link,
+  .subnavdown ul li a {
+    font-size: 1rem !important;
+  }
+  .edgelogo {
+    bottom: 135px;
+  }
+  .btnclick {
+    display: none;
+  }
+  .brhidedk,
+  .mapgridicon ul {
+    display: block;
+  }
+  .contactwrap {
+    padding-bottom: 0;
+  }
+  .csinnerbg {
+    height: 450px;
+    background-position: right;
+  }
+  .csinnerbg .caretext {
+    width: 80%;
+    padding: 15px;
+    bottom: -1px;
+    left: -1px;
+  }
+  .csinnerbg .caretext p {
+    font-size: 16px;
+  }
+  .location-bg,
+  .locationwrap .col-lg-7 {
+    width: 100%;
+  }
+  .mapgridicon ul li {
+    width: 48%;
+    display: inline-table;
+    text-align: center;
+  }
+  .igbclogo,
+  .logogrid {
+    margin-top: 20px;
+  }
+  .logogrid ul {
+    border: none;
+  }
+  .logogrid ul li {
+    width: 100%;
+    border: 1px solid rgba(224, 212, 213, 0.7);
+    margin-bottom: 15px;
+  }
+  .logogrid ul li:nth-child(3) {
+    border-right: 1px solid rgba(224, 212, 213, 0.7);
+  }
+  .prr-2 {
+    padding-right: 15px !important;
+  }
+  .headingtagcontact {
+    font-size: 2.5rem;
+  }
+  .accordion .card h2 b {
+    width: 60%;
+    display: block;
+  }
+}
+@media (max-width: 414px) {
+  .newssectionwrap form.formlineflex .select2-container {
+    width: 211px !important;
+    min-width: 211px !important;
+  }
+}
+@media (max-width: 390px) {
+  .select2-container {
+    width: 363px !important;
+    min-width: 211px !important;
+  }
+}
+@media (max-width: 375px) {
+  .newssectionwrap form.formlineflex .from-flex .select2-container {
+    width: 145px !important;
+  }
+  #main-nav {
+    top: 52px;
+    height: calc(100vh - 59px);
+    margin-top: 6px;
+  }
+  .navbar-dark .navbar-nav .nav-link,
+  .subnavdown ul li a {
+    font-size: 0.89rem !important;
+  }
+  .subnavdown .col-lg-4 {
+    padding-left: 0;
+  }
+  .select2-container {
+    width: 330px !important;
+    min-width: 211px !important;
+  }
+  .banpostext .bannertexthm h1 {
+    font-size: 2.4rem;
+  }
+  .headingtag {
+    font-size: 1.8rem;
+  }
+  .header-area {
+    height: 65px;
+  }
+  .banner {
+    margin-top: 65px;
+  }
+  .navbar-expand-md > .container,
+  .navbar-expand-md > .container-fluid {
+    padding: 10px 0;
+  }
+  .navbar .navbar-brand img {
+    width: 120px;
+  }
+  .mobiconbtn {
+    width: 75px;
+  }
+  .mobiconbtn a {
+    width: 22px;
+  }
+  .topnavbaxy ul li a {
+    font-size: 0.59rem !important;
+  }
+  .subnavdown .col-sm-6,
+  .subnavdown .dskhide ul {
+    width: 100%;
+  }
+  .subnavdown .dskhide {
+    position: static;
+    margin-bottom: 15px;
+  }
+  ul.pplink {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+@media (max-width: 360px) {
+  .newssectionwrap form.formlineflex .select2-container {
+    width: 208px !important;
+    min-width: 211px !important;
+  }
+}
+@media (max-height: 540px) {
+  .bottommediamobwrap {
+    height: 40%;
+  }
+}
+@media (max-width: 768px) {
+  .banner .videobg #videobanner {
+    left: 0;
+  }
+  .bankslider .slick-dots li {
+    bottom: 38px;
+  }
+  .signumslide3,
+  .signumslide4,
+  .signumslide5,
+  .signumslide6,
+  .signumslide7,
+  .signumslide8 {
+    height: 75vh !important;
+    background-size: 100% 100%;
+  }
+  .bankslider .slick-dots {
+    margin-top: -12px;
+  }
+  .banklogoh {
+    height: 319px !important;
+    margin: 0 !important;
+  }
+}
+@media (max-width: 480px) {
+  .signumslide3,
+  .signumslide4,
+  .signumslide5,
+  .signumslide6,
+  .signumslide7,
+  .signumslide8 {
+    background-repeat: repeat;
+    height: 75vh !important;
+    background-size: 100% 100%;
+  }
+  .signumslide3 {
+    margin: 0;
+    background-image: url(../images/projects/signum88A/SG-88-A-mobile-Banner.jpg);
+  }
+  .signumslide4 {
+    background-image: url(../images/projects/signum88A/signum88A-mbbanner.webp);
+  }
+  .signumslide5 {
+    margin: 0;
+    background-image: url(../images/projects/signum37d-iv/Banner/Signum37D-mobile-banner.jpg);
+  }
+  .signumslide6 {
+    background-image: url(../images/projects/signum37d-iv/Banner/Mobile.jpg);
+  }
+  .signumslide7 {
+    margin: 0;
+    background-image: url(../images/projects/sg-37d-sco/Mobile-Banner-1.jpg);
+  }
+  .signumslide8 {
+    background-image: url(../images/projects/sg-37d-sco/MobileBAnner.jpg);
+  }
+}
+@media (max-width: 767px) {
+  .banklogoh {
+    height: 350px !important;
+    margin: 0 !important;
+  }
+}
+@media (max-width: 991px) {
+  .navbar .navbar-brand img {
+    width: 165px;
+  }
+}
+@media (max-width: 560px) {
+  .navbar .navbar-brand img {
+    width: 120px !important;
+  }
+}
+@media (max-width: 1024) {
+  .banner {
+    height: auto;
+  }
+  @media (max-width: 768px) {
+    .impoffer a::after {
+      width: 100%;
+      height: 100%;
+      right: -30px;
+      background-size: 100px;
+      top: 0;
+      background-repeat: no-repeat;
+      background-position: right center;
+    }
+  }
+  @media (max-width: 480px) {
+    .sgcity92-2banner {
+      background-image: url(../images/sg-city-92-2/Banner/Banner-MObile.jpg);
+    }
+    .sgcity63abanner {
+      background-image: url(../images/projects/sgcity63a/Mobile-Banner.jpg);
+    }
+    .solerabanner {
+      background-image: url(../images/solermob.jpg);
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .edgeStatement {
+    padding: 25px;
+    font-size: 18px;
+  }
+  .logogrid ul li:last-child {
+    margin-bottom: 0px;
+  }
+}

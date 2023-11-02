@@ -1,0 +1,278 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Oct 2023 12:57:08 at https://www.signatureglobal.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.signatureglobal.in/ -O1 "C:\Users\pc\Desktop\Ashwani\SG\SG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:57:10	Warning: 	Note: due to https://www.signatureglobal.in remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin/, /public_html/ (see in the options to disable this)
+12:57:43	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.signatureglobal.in/)
+13:19:53	Warning: 	Found for https://www.signatureglobal.in/schema.org/
+13:19:53	Warning: 	File has moved from https://www.signatureglobal.in/schema.org/ to https://signatureglobal.in/
+13:20:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/investors/Code-of-conduct.pdf (from https://www.signatureglobal.in/investor.php)
+13:20:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/investors/16-IPO-committee-resolution-approving-the-Fresh-Issue-and-other-related-matters.pdf (from https://www.signatureglobal.in/investor.php)
+13:20:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/investor/23-Consent-Directors-Selling-Shareholder-BRLMs-Legal-counsels-RTA-CS.pdf (from https://www.signatureglobal.in/investor.php)
+13:20:00	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/investor/26. Consent letter - Quantum ProjectInfra Limited.pdf (from https://www.signatureglobal.in/investor.php)
+13:41:13	Warning: 	Unexpected socket error during pre-loop
+13:41:13	Warning: 	Unexpected socket error during pre-loop
+21:05:41	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/Signum-Plaza-63A-Application-Form-ctc.pdf (from https://www.signatureglobal.in/signum-plaza-63a.php)
+21:05:41	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.signatureglobal.in/pdf/Signum_37D_II_A4_Multipager.pdf (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:05:47	Warning: 	Retry after error -4 (Receive Error) at link https://www.signatureglobal.in/images/projects/sp37d2/Second-Floor4.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:05:47	Warning: 	Retry after error -4 (Receive Error) at link https://www.signatureglobal.in/images/projects/sp37d2/Second-Floor.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:05:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/sp37d2/front-view.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:05:52	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/sp37d2/side-view.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:05:59	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/sp37d2/commercial-shop.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:06:03	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/sp37d2/rooftop.jpg (from https://www.signatureglobal.in/signum-plaza-37d2.php)
+21:06:13	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/pdf/signum88A/Signum88A_Multipage.pdf (from https://www.signatureglobal.in/signum-88A.php)
+21:06:13	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Signum-88-Logo.svg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:14	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Location-Map.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:15	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/lgf-1.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:16	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/ugf-1.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:17	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/ff-1.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:17	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/lgf-2.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:17	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/ugf-2.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:18	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/floor-plan/ff-2.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:18	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Elevations/1.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:18	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Elevations/2.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:21	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Elevations/3.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:21	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum88A/Elevations/4.jpg (from https://www.signatureglobal.in/signum-88A.php)
+21:06:24	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/pdf/signum37d-IV/Signum37DIVMultipager_A4.pdf (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:24	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/logo/SIGNUM-37D-4.png (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:33	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/LocationMap/Location-Map.webp (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:36	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/FloorPlan/Ground-floor.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:37	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/FloorPlan/First-Floor.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:38	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/FloorPlan/Second-Floor.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:40	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/Elevation/1.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:42	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/Elevation/2.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:45	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/Elevation/3.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/Elevation-1.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:06:54	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum37d-iv/Elevation-3.jpg (from https://www.signatureglobal.in/signum-37d-4.php)
+21:07:01	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/pdf/signum-37d-4/Cancellation Ad Signum 37D IV_8x9 cm copy.pdf (from https://www.signatureglobal.in/signum-37d-4.php)
+21:07:02	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/pdf/Signum_Plaza_92_Multipager_new.pdf (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:07:10	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/logo/SIGNUM---PLAZA-92.png (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:07:22	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/Location-Map.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:07:39	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/floor-plan/s1.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:07:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/floor-plan/s2.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:07:59	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/floor-plan/s3.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:08:03	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/floor-plan/s4.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:08:04	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/Elevation/1.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:08:04	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza92/Elevation/2.jpg (from https://www.signatureglobal.in/signum-plaza-92.php)
+21:08:06	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/pdf/Multipagers/High/SignumPlaza81_Multipage.pdf (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:06	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/logo/SIGNUM--PLAZA-81.png (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:12	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/Location-map.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:22	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/floor-plan/fl-lw-floor.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:28	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/floor-plan/fl-ug-floor.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:31	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/floor-plan/fl-first-floor.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:32	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/floor-plan/fl-secon-floor.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:33	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/Elevation/1.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:37	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/Elevation/2.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:08:41	Warning: 	Retry after error -4 (Connect Error) at link https://www.signatureglobal.in/images/projects/signum-plaza81/Elevation/3.jpg (from https://www.signatureglobal.in/signum-plaza-81.php)
+21:10:50	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5267
+21:10:50	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5267 to https://www.signatureglobal.in/blog/luxury-living-unveiled-gurgaons-opulent-real-estate-landscape/
+21:10:50	Error: 	"Method Not Allowed" (405) at link https://www.signatureglobal.in/blog/xmlrpc.php (from https://www.signatureglobal.in/blog/luxury-living-unveiled-gurgaons-opulent-real-estate-landscape/)
+21:10:52	Error: 	"Not Found" (404) at link https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/feed/ (from https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/)
+21:10:53	Error: 	"Unauthorized" (401) at link https://www.signatureglobal.in/blog/wp-json/wp/v2/posts/5264 (from https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/)
+21:10:53	Error: 	"Not Found" (404) at link https://www.signatureglobal.in/blog/?p=5264 (from https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/)
+21:10:54	Error: 	"Not Found" (404) at link https://www.signatureglobal.in/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.signatureglobal.in%2Fblog%2Finfrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2%2F (from https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/)
+21:10:54	Error: 	"Not Found" (404) at link https://www.signatureglobal.in/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.signatureglobal.in%2Fblog%2Finfrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2%2F&format=xml (from https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas-2/)
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5261
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5261 to https://www.signatureglobal.in/blog/transition-phase-in-indian-real-estate-gurgaons-remarkable-growth-five-years-after-the-establishment-of-regulatory-bodies/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5258
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5258 to https://www.signatureglobal.in/blog/navigating-vatika-chowk-the-intersection-of-accessibility-and-its-real-estate-potential/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5254
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5254 to https://www.signatureglobal.in/blog/infrastructure-boom-impact-of-dmic-on-sohna-road-and-surrounding-areas/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5248
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5248 to https://www.signatureglobal.in/blog/anticipated-job-opportunities-with-proposed-six-lane-road-connecting-dwarka-expressway-and-kmp-through-jhajjar-aiims/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5241
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5241 to https://www.signatureglobal.in/blog/revolutionizing-indias-real-estate-anticipating-a-5-8-trillion-industry-by-2047/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5229
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5229 to https://www.signatureglobal.in/blog/haryanas-game-changer-transforming-independent-floors-into-commercial-spaces-in-licensed-colonies/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5225
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5225 to https://www.signatureglobal.in/blog/the-indian-real-estate-dilemma-rising-house-prices-vs-dwindling-affordability/
+21:10:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5221
+21:10:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5221 to https://www.signatureglobal.in/blog/analyzing-the-shift-in-the-real-estate-market-homebuyers-frenzy/
+21:14:33	Error: 	"Not Found" (404) at link https://www.signatureglobal.in/blog/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/fa-brands-400.ttf (from https://www.signatureglobal.in/blog/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css?ver=3.1.3)
+21:14:39	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5215
+21:14:39	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5215 to https://www.signatureglobal.in/blog/empowering-dreams-homeownership-and-urban-development-in-india/
+21:14:39	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5211
+21:14:39	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5211 to https://www.signatureglobal.in/blog/gurugram-real-estate-high-returns-drive-demand-and-supply-aided-by-strategic-location/
+21:14:39	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5207
+21:14:39	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5207 to https://www.signatureglobal.in/blog/exploring-emerging-gurgaon-real-estate-hotspots-dwarka-expressway-and-sohna/
+21:14:39	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5198
+21:14:39	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5198 to https://www.signatureglobal.in/blog/nurturing-dreams-signature-global-foundations-journey-with-project-paathshala/
+21:14:39	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5173
+21:14:39	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5173 to https://www.signatureglobal.in/blog/top-5-retail-shops-in-gurgaon-exploring-the-retail-renaissance/
+21:14:40	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5170
+21:14:40	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5170 to https://www.signatureglobal.in/blog/revamping-gurgaon-pataudi-railway-stations-by-indian-railways-is-a-positive-sign-and-to-accelerate-economic-activities-in-the-district/
+21:14:40	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5166
+21:14:40	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5166 to https://www.signatureglobal.in/blog/its-high-time-to-promote-protect-and-preserve-greenery-in-gurgaon-to-compensate-rapid-urbanization-and-tackle-climate-change-threat/
+21:14:40	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5162
+21:14:40	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5162 to https://www.signatureglobal.in/blog/lets-hope-for-a-real-estate-boom-in-case-nhai-constructs-two-layer-elevated-road-from-dhaula-kuan-to-manesar/
+21:14:40	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5158
+21:14:40	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5158 to https://www.signatureglobal.in/blog/not-surprising-gurugram-property-prices-going-up-year-on-year-being-one-of-the-most-sought-after-real-estate-market/
+21:14:40	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5154
+21:14:40	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5154 to https://www.signatureglobal.in/blog/real-estate-property-prices-to-get-a-big-boost-after-indian-railways-revamps-the-gurugram-railway-station-it-will-transform-commuting-in-ncr/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5133
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5133 to https://www.signatureglobal.in/blog/signature-globals-independence-day-offer-unveiling-exclusive-real-estate-opportunities/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5124
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5124 to https://www.signatureglobal.in/blog/luxurious-low-rise-apartments-in-gurgaons-green-urban-oasis/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5116
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5116 to https://www.signatureglobal.in/blog/paving-the-way-for-a-smoother-journey-two-layer-elevated-road-on-nh-8-from-dhaula-kuan-to-manesar/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5110
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5110 to https://www.signatureglobal.in/blog/transforming-the-face-of-travel-redevelopment-of-gurgaon-rewari-and-pataudi-railway-stations/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5106
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5106 to https://www.signatureglobal.in/blog/informed-project-choice-safeguarding-your-savings-when-buying-property/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5103
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5103 to https://www.signatureglobal.in/blog/optimal-selection-for-investors-and-homebuyers-gurugrams-strategic-location-and-flourishing-economic-activities/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5100
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5100 to https://www.signatureglobal.in/blog/smart-utilization-of-natural-resources-a-crucial-call-to-action-for-the-real-estate-sector/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5088
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5088 to https://www.signatureglobal.in/blog/top-10-commercial-shops-in-gurgaon-2023/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5074
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5074 to https://www.signatureglobal.in/blog/embrace-the-epitome-of-living-signature-globals-3-bhk-flats-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5024
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5024 to https://www.signatureglobal.in/blog/delhi-mumbai-industrial-corridor-sohna-dausa-spurs-growth-in-the-south-gurugram-real-estate-market/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5021
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5021 to https://www.signatureglobal.in/blog/grading-real-estate-projects-and-developers-a-significant-step-by-maharashtra-rera-to-enhance-transparency-and-efficiency-in-the-system/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5018
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5018 to https://www.signatureglobal.in/blog/nurturing-futuristic-urban-development-a-vision-for-gurugrams-real-estate-sector-in-the-national-capital-region/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5015
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5015 to https://www.signatureglobal.in/blog/real-estate-gurugram-south-gurugram-offers-abundant-mid-income-housing-options/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4990
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4990 to https://www.signatureglobal.in/blog/sunrise-the-premium-floors-unparalleled-luxury-in-karnals-historic-city/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4976
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4976 to https://www.signatureglobal.in/blog/global-city-a-magic-box-of-bundle-of-opportunities-is-about-to-open/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4972
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4972 to https://www.signatureglobal.in/blog/connecting-dwarka-expressway-a-positive-news-for-sectors-along-it-and-property-buyers/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4969
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4969 to https://www.signatureglobal.in/blog/commercial-real-estate-is-emerging-as-the-best-investment-option/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4966
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4966 to https://www.signatureglobal.in/blog/growing-ratio-of-young-people-in-the-population-is-a-positive-indicator-for-indian-real-estate/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4955
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4955 to https://www.signatureglobal.in/blog/top-10-commercial-property-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4949
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4949 to https://www.signatureglobal.in/blog/rise-of-commercial-property-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4941
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4941 to https://www.signatureglobal.in/blog/top-5-commercial-projects-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4936
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4936 to https://www.signatureglobal.in/blog/cabinet-approval-paves-the-way-for-metro-connectivity-boosting-gurugrams-development/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4900
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4900 to https://www.signatureglobal.in/blog/best-luxury-apartments-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4879
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4879 to https://www.signatureglobal.in/blog/signature-global-city-81-a-premium-residential-project-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4869
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4869 to https://www.signatureglobal.in/blog/unveiling-the-charm-of-builder-floors-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4838
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4838 to https://www.signatureglobal.in/blog/demands-of-independent-floors-are-rising-in-gurugram/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4836
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4836 to https://www.signatureglobal.in/blog/green-housing-a-need-of-hour-for-real-estate-and-environment-both/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4830
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4830 to https://www.signatureglobal.in/blog/rera-brings-new-transparency-accountability-and-teinforces-trust/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4826
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4826 to https://www.signatureglobal.in/blog/celebrating-motherhood-and-womanhood-signature-globals-unforgettable-mothers-day-event/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4821
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4821 to https://www.signatureglobal.in/blog/stilt-plus-four-floors-policy-a-win-win-option-for-developers-and-customers-both/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4817
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4817 to https://www.signatureglobal.in/blog/start-of-sohna-dausa-stretch-to-open-a-new-path-for-real-estate-development/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4814
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4814 to https://www.signatureglobal.in/blog/signature-global-pioneers-reduction-of-air-pollution-caused-by-construction-activities-in-partnership-with-ceew/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4810
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4810 to https://www.signatureglobal.in/blog/circle-rate-would-not-affect-the-rising-housing-demand-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4807
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4807 to https://www.signatureglobal.in/blog/proposed-gurgaon-metro-corridor-to-help-the-real-estate-sector/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4802
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4802 to https://www.signatureglobal.in/blog/five-reasons-why-gurgaon-real-estate-is-a-smart-investment-choice/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4799
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4799 to https://www.signatureglobal.in/blog/the-evolving-commercial-real-estate-landscape-in-gurgaon-opportunities-and-challenges-can-mention-scos-and-high-street-retail-shops/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4796
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4796 to https://www.signatureglobal.in/blog/gurgaons-emerging-neighborhoods-where-to-invest-in-real-estate/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4789
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4789 to https://www.signatureglobal.in/blog/credai-partners-with-igbc-to-construct-4000-green-project/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4761
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4761 to https://www.signatureglobal.in/blog/gurrgram-is-undergoing-a-best-time-currently-premium-floors-demand-on-rise/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4754
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4754 to https://www.signatureglobal.in/blog/budget-friendly-low-rise-floors-demand-to-increase-in-near-future-in-gurgaon/
+21:14:47	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4749
+21:14:47	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4749 to https://www.signatureglobal.in/blog/next-five-years-gurgaon-to-witness-massive-infra-growth/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4741
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4741 to https://www.signatureglobal.in/blog/sector-93-is-nestled-in-the-heart-of-new-gurugram-luxury-premium-floors-trending/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4735
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4735 to https://www.signatureglobal.in/blog/signature-global-offers-premium-flats-in-gurgaon-that-cater-to-the-needs-of-different-category-of-property-buyers/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4725
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4725 to https://www.signatureglobal.in/blog/owning-a-3-bhk-flat-in-gurugram-inclusive-of-best-interior-and-environment-is-everyones-dream/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4720
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4720 to https://www.signatureglobal.in/blog/global-city-is-another-big-industry-cum-institutional-dream-project-of-haryana-government-after-imt-manesar-coming-close-to-sectors-92-93-36-and-37-a-big-blessing/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4717
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4717 to https://www.signatureglobal.in/blog/surrounded-by-nh-npr-kmp-and-rail-networks-sectors-such-as-92-and-93-located-at-heart-of-gurugram-and-manesar-are-evolving-as-a-real-estate-hot-spot/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4714
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4714 to https://www.signatureglobal.in/blog/best-time-to-invest-in-premium-floors-affordable-housing-and-in-residential-plots-signature-global-brings-all-this-at-reasonable-prices-amidst-shooting-property-prices-in-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4676
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4676 to https://www.signatureglobal.in/blog/living-standard-life-style-etc-fast-changing-in-new-gurugram-sectors-high-class-urban-culture-fast-emerging-in-new-housing-projects/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4661
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4661 to https://www.signatureglobal.in/blog/sectors-close-to-upcoming-rrts-route-such-as-77-to-93-becoming-choice-of-the-day-prove-an-infra-bo/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4639
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4639 to https://www.signatureglobal.in/blog/signature-global-city-37d-low-rise-premium-independent-floors-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4634
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4634 to https://www.signatureglobal.in/blog/signature-global-city-63a-ultra-luxury-premium-independent-floors-in-sector-63a-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4621
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4621 to https://www.signatureglobal.in/blog/signature-global-city-37d-2-premium-independent-floors-in-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4582
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4582 to https://www.signatureglobal.in/blog/signature-global-park-1-phase-2-live-in-a-luxurious-home/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4531
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4531 to https://www.signatureglobal.in/blog/signature-global-city-93-a-gem-of-independent-premium-floors-in-the-heart-of-new-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4515
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4515 to https://www.signatureglobal.in/blog/signature-global-city-79b-luxurious-floors-surrounded-by-aravallis-hills-in-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4469
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4469 to https://www.signatureglobal.in/blog/signature-global-sco-plots-in-gurgaon/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/commercial/sco-shops/
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/commercial/sco-shops/ to https://www.signatureglobal.in/commercial/sco-plots/?
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4466
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4466 to https://www.signatureglobal.in/blog/commercial-property-investment-in-gurgaon/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4456
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4456 to https://www.signatureglobal.in/blog/ultra-luxury-premium-independent-floors-at-golf-course-extension-road-sector-63a-gurugram/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4436
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4436 to https://www.signatureglobal.in/blog/real-estate-remains-an-attractive-asset-class-for-investors/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4433
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4433 to https://www.signatureglobal.in/blog/dhbvn-initiative-to-boost-power-supply-in-gurgaon/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4428
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4428 to https://www.signatureglobal.in/blog/record-rise-in-investments-bode-well-for-ncr-residential-realty/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4414
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4414 to https://www.signatureglobal.in/blog/signature-global-city-81-about-the-project/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4396
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4396 to https://www.signatureglobal.in/blog/delhi-metro-extension-to-provide-wings-to-gurgaon-realty/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4236
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4236 to https://www.signatureglobal.in/blog/residential-realty-set-to-chart-high-growth-path-2/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4182
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4182 to https://www.signatureglobal.in/blog/gurugram-housing-sales-shoot-up-3-fold-during-jan-sep-2022/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4166
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4166 to https://www.signatureglobal.in/blog/housing-sales-rise-3-fold-in-gurgaon-in-a-year/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4148
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4148 to https://www.signatureglobal.in/blog/gurgaon-jaipur-stretch-of-delhi-mumbai-eway-to-boost-sohna-realty/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4132
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4132 to https://www.signatureglobal.in/blog/high-credit-to-realty-companies-and-home-buyers-to-boost-real-estate/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4107
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4107 to https://www.signatureglobal.in/blog/high-home-buying-sentiment-fueling-residential-sales/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4088
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4088 to https://www.signatureglobal.in/blog/nris-to-boost-ncr-residential-realty/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4083
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4083 to https://www.signatureglobal.in/blog/new-infra-projects-to-enhance-dwarka-eway-connectivity-boost-investment/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4064
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4064 to https://www.signatureglobal.in/blog/better-business-environment-to-boost-real-estate/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4060
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4060 to https://www.signatureglobal.in/blog/demand-momentum-to-generate-record-housing-sales/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4043
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4043 to https://www.signatureglobal.in/blog/new-metro-corridors-to-provide-big-connectivity-boost-to-gurgaon-realty/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=4037
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=4037 to https://www.signatureglobal.in/blog/new-mobility-boost-to-put-sohna-realty-on-fasttrack/
+21:14:48	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=3966
+21:14:48	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=3966 to https://www.signatureglobal.in/blog/signature-global-receives-national-recognitions-though-winning-prestigious-real-estate-awards/
+21:14:54	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/author/siglobal/page/1/
+21:14:54	Warning: 	File has moved from https://www.signatureglobal.in/blog/author/siglobal/page/1/ to https://www.signatureglobal.in/blog/author/siglobal/
+21:14:57	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/?p=5218
+21:14:57	Warning: 	File has moved from https://www.signatureglobal.in/blog/?p=5218 to https://www.signatureglobal.in/blog/indias-real-estate-boom-a-tale-of-urbanization-economic-growth-and-investment-opportunities/
+21:15:04	Warning: 	Moved Permanently for https://www.signatureglobal.in/blog/category/uncategorized/page/1/
+21:15:04	Warning: 	File has moved from https://www.signatureglobal.in/blog/category/uncategorized/page/1/ to https://www.signatureglobal.in/blog/category/uncategorized/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 hours 17 minutes 58 seconds : 3795 links scanned, 3630 files written (1979238228 bytes overall) [1962836656 bytes received at 65695 bytes/sec], 21943662 bytes transferred using HTTP compression in 277 files, ratio 17%, 6.5 requests per connection
+(8 errors, 259 warnings, 0 messages)

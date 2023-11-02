@@ -1,0 +1,48 @@
+ @media(max-width:1199px){
+
+}
+
+@media (max-width:991px){
+    nav.navbar{ height:auto;}
+    nav.navbar .nav-link{ padding:8px 0 0!important; margin-bottom:8px !important;}
+    body.fp-viewing-retail header nav.navbar, body.fp-viewing-office header nav.navbar, body.fp-viewing-playgame header nav.navbar, body.fp-viewing-gallery header nav.navbar, body.fp-viewing-construction header nav.navbar, body.fp-viewing-contact header nav.navbar, body.fp-viewing-6 header nav.navbar, body.fp-viewing-7 header nav.navbar{ height:auto;}
+    .dpmb{ display:block;}
+    .top-head{display:none;}
+    .het{ height:auto;}
+    .padmb5{ padding:50px 0;}
+    #locations .slick-slide{ margin:0;}
+    .headingtag{ font-size:40px;}
+    .regclrin{display: block;}
+}
+@media (max-width:768px){
+    .registerform{top: 25%;}
+    .resgap{height: auto !important; padding: 60px 0px;}
+    .resgap .fp-tableCell{height: auto !important;}
+    .innertextwrap{padding: 0;}
+    .ptextwrap{font-size: 20px; text-align: center;}
+    .locationtextwrap ul{margin-bottom: 15px;}
+    .footeradd address{font-size: 16px;}
+    .footer p{font-size: 16px;}
+    .locationtextwrap p{font-size: 18px;}
+    .resmrg{margin-bottom: 40px;}
+    .controlar{top: 8px;}
+    .controlar .arrow-icon-leftpl svg .cls-1, .controlar .arrow-icon-rightpl svg .cls-1{stroke: #fff;}
+    .het{width: 100%;}
+}
+
+@media (max-width:767px){
+header{ background:#000;}
+.navbar-brand{ padding-left:15px;}
+.navbar-expand-lg .navbar-collapse{ padding-bottom:15px;}
+.banner{ top:40%;}
+.innertextwrap{ padding: 0 40px !important;}
+.fpostxban{top: 4vh;}
+.navbar-brand img{ width:160px;}
+footer .container{ top:50px; position:relative;}
+.footeradd address b{margin-bottom: 0px;}
+.btmbr{display: none;}
+.footeradd address{line-height: 18px;}
+.footermt .rerano{line-height: 18px;}
+.controlar{top: 12px;}
+.headingtag{ font-size:35px;}
+}

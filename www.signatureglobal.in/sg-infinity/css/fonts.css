@@ -1,0 +1,47 @@
+@import url('reset.css');
+@font-face {
+    font-family: 'Bon Vivant Family Serif';
+    src: url('fonts/BonVivantSerifBold.eot');
+    src: url('fonts/BonVivantSerifBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BonVivantSerifBold.woff') format('woff'),
+        url('fonts/BonVivantSerifBold.ttf') format('truetype'),
+        url('fonts/BonVivantSerifBold.svg#BonVivantSerifBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Halvar Eng Md';
+    src: url('fonts/HalvarEng-Md.eot');
+    src: url('fonts/HalvarEng-Mdd41d.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HalvarEng-Md.woff') format('woff'),
+        url('fonts/HalvarEng-Md.ttf') format('truetype'),
+        url('fonts/HalvarEng-Md.svg#HalvarEng-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Halvar Eng Lt';
+    src: url('fonts/HalvarEng-Lt.eot');
+    src: url('fonts/HalvarEng-Ltd41d.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HalvarEng-Lt.woff') format('woff'),
+        url('fonts/HalvarEng-Lt.ttf') format('truetype'),
+        url('fonts/HalvarEng-Lt.svg#HalvarEng-Lt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Halvar Eng Rg';
+    src: url('fonts/HalvarEng-Rg.eot');
+    src: url('fonts/HalvarEng-Rgd41d.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HalvarEng-Rg.woff') format('woff'),
+        url('fonts/HalvarEng-Rg.ttf') format('truetype'),
+        url('fonts/HalvarEng-Rg.svg#HalvarEng-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
